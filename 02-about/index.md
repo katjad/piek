@@ -1,6 +1,7 @@
 ---
 Title: Über mich
 Template: about
+published: true
 ---
 
 # &Uuml;ber mich
@@ -9,6 +10,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae repudiandae odio
 
 ## Was ich anbiete
 
-- Sanfte Krampfaderentfernung
+- Krampfaderentfernung mit Kochsalz
 - Verst&auml;ndisvolle Betreuung
 - Nachsorge
