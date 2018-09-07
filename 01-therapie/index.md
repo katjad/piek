@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Hi there! nana nana nah nah ooh ooh hoo hey hey
+Therapy!
