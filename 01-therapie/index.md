@@ -7,4 +7,4 @@ Template: therapy
 
 # Die Therapie
 
-Blablabla
+Hi there!
