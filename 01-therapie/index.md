@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Therapy! Alles Mist. Brrr. Wie ist es jetzt?
+Therapy! Mag nicht mehr
