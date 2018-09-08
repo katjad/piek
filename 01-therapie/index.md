@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Therapy! Jetzt werde ich wohl bald aufgeben, wie schade :( :( :(
+Therapy! Naechster Versuch..
