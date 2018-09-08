@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Therapy! Mag nicht mehr
+Therapy! Mag nicht mehr. So doof.
