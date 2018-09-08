@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Therapy! Jetzt koennte es klappen. Und mit dem neuen Skript?
+Therapy! Jetzt koennte es klappen. Und mit dem neuen Skript? Jetzt?
