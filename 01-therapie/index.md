@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Therapy! Warum?
+Therapy! Warum? Keine permissions fuer den apache user
