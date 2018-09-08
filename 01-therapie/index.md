@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Therapy! Naechster Versuch..  baah
+Therapy! Jetzt koennte es klappen.
