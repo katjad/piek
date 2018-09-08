@@ -14,4 +14,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae repudiandae odio
 - Verst&auml;ndisvolle Betreuung
 - Nachsorge
 
-[]({{site.baseurl}}/02-about/41642993685_f06404741d_k.jpg)
+Hier wird dann auch noch ein Bild hinkommn.
