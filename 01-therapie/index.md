@@ -7,4 +7,4 @@ published: true
 
 # Die Therapie
 
-Mit Kochsalz lassen sich Krampfadern sehr viel sanfter entfernen als mmit den herkoemmlichen Methoden.
+Mit Kochsalz lassen sich Krampfadern sehr viel sanfter entfernen.
