@@ -10,8 +10,9 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae repudiandae odio
 
 ## Was ich anbiete
 
-- Krampfaderentfernung mit Kochsalz!
+- Krampfaderentfernung mit Kochsalz
 - Verst&auml;ndisvolle Betreuung
 - Nachsorge
 
-Hier wird dann auch noch ein Bild hinkommn.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae repudiandae odio quod neque dolor cumque magni officia id corrupti, nisi culpa itaque quos aliquam velit? Ratione est ad culpa doloribus?
+

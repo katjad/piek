@@ -1,7 +1,7 @@
 ---
 Title: Kontakt/Impressum
-Template: index
+Template: contact
 
 ---
 
-Hi there
+# Kontakt / Impressum
