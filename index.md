@@ -1,10 +1,9 @@
 ---
 Title: Welcome
-Description: Pico is a stupidly simple, blazing fast, flat file CMS.
+Description:
 hidden: True
 ---
 
-## Krampfadern sanft entfernen
+## Hier entsteht der Webauftritt Vitale Venen von Michaela Stoeger
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae repudiandae odio quod neque dolor cumque magni officia id corrupti, nisi culpa itaque quos aliquam velit? Ratione est ad culpa doloribus?
-
+Ich hoffe sie bald in meiner Praxis begrüßen zu dürfen, und zum Thema Sanfte Krampfaderentfernung zu beraten.
